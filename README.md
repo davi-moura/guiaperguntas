@@ -1,2 +1,3 @@
 # guiaperguntas
-Formulario de perguntas e respostas com Node.js
+
+Formulário de criar perguntas e respostas com Node.js e MySQL
